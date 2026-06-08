@@ -7,17 +7,14 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1737668447,
-        "narHash": "sha256-gwD0R64zwgthI+maRanOzcywocF3M0dHr78HFFFr5V0=",
-        "owner": "primamateria",
-        "repo": "dev-toolkit-nix",
-        "rev": "4a67860d3487fa93612b4671ec0f1be148ceea5e",
-        "type": "github"
+        "lastModified": 1760137625,
+        "narHash": "sha256-524TRgczvLRBKabj/70tO7Gv4VOqPhZTecNXdPD/aMI=",
+        "path": "/home/primamateria/dev/dev-toolkit-nix",
+        "type": "path"
       },
       "original": {
-        "owner": "primamateria",
-        "repo": "dev-toolkit-nix",
-        "type": "github"
+        "path": "/home/primamateria/dev/dev-toolkit-nix",
+        "type": "path"
       }
     },
     "haumea": {
@@ -60,11 +57,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1737469691,
-        "narHash": "sha256-nmKOgAU48S41dTPIXAq0AHZSehWUn6ZPrUKijHAMmIk=",
+        "lastModified": 1780749050,
+        "narHash": "sha256-3av0pIjlOWQ6rDbNOmpUSvbNnJkGORQKKjb4LtCZsIY=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "9e4d5190a9482a1fb9d18adf0bdb83c6e506eaab",
+        "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
         "type": "github"
       },
       "original": {
