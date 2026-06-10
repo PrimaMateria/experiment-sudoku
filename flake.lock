@@ -7,14 +7,17 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1760137625,
-        "narHash": "sha256-524TRgczvLRBKabj/70tO7Gv4VOqPhZTecNXdPD/aMI=",
-        "path": "/home/primamateria/dev/dev-toolkit-nix",
-        "type": "path"
+        "lastModified": 1774279017,
+        "narHash": "sha256-EaqQmHLH0Qxl/YLtWLH/RreehSWJDzNd8K0P5aAbzIk=",
+        "owner": "primamateria",
+        "repo": "dev-toolkit-nix",
+        "rev": "2a9e1d9557c61c6354c33af582533a63fd3c295c",
+        "type": "github"
       },
       "original": {
-        "path": "/home/primamateria/dev/dev-toolkit-nix",
-        "type": "path"
+        "owner": "primamateria",
+        "repo": "dev-toolkit-nix",
+        "type": "github"
       }
     },
     "haumea": {

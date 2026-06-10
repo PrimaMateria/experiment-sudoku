@@ -4,8 +4,8 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     utils.url = "github:numtide/flake-utils";
-    # devToolkit.url = "github:primamateria/dev-toolkit-nix";
-    devToolkit.url = "/home/primamateria/dev/dev-toolkit-nix";
+    devToolkit.url = "github:primamateria/dev-toolkit-nix";
+    # devToolkit.url = "/home/primamateria/dev/dev-toolkit-nix";
   };
   outputs = inputs @ {
     self,
